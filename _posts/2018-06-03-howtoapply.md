@@ -3,6 +3,7 @@ title: "How to apply"
 bg: red     #defined in _config.yml, can use html color like '#010101'
 color: black  #text color
 style: center
+fa-icon: edit
 ---
 
 ## How to apply
